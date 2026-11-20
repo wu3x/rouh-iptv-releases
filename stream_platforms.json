@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-20",
+  "platforms": [
+    {
+      "id": "sample",
+      "title": "منصة تجريبية",
+      "subtitle": "أضف رابط منصتك المصرح بها",
+      "category": "منصات",
+      "url": "https://example.com",
+      "alternates": [],
+      "enabled": false,
+      "adBlock": true,
+      "accent": "#6277E9",
+      "allowedDomains": [
+        "example.com"
+      ]
+    }
+  ]
+}
