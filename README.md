@@ -1,99 +1,96 @@
 <div align="center">
 
-# 📺 ROUH IPTV
-### روح IPTV | التحميل الرسمي للتطبيق
+# ROUH IPTV
+### Official Downloads · مركز التحميل الرسمي
 
-**مشغّلك، على جهازك، وبالطريقة اللي تناسبك.**
+**تجربة مشاهدة واحدة. منصتان. تحديثات مستمرة.**
 
-هنا تلقى أحدث نسخ **ROUH IPTV** للأندرويد والآيفون بروابط تحميل مباشرة، بدون ما تدور بين ملفات البناء.
+المكان الرسمي لتحميل إصدارات **ROUH IPTV** على Android وiOS. روابط ثابتة، إصدارات منظمة، ووصول مباشر إلى ملفات التطبيق دون البحث بين سجلات البناء أو المستودعات البرمجية.
 
-![Android](https://img.shields.io/badge/Android-APK%20Signed-34A853?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-Unsigned%20IPA-555555?style=flat-square&logo=apple&logoColor=white)
-![Updates](https://img.shields.io/badge/Updates-Automatic-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<br>
+
+![Android](https://img.shields.io/badge/ANDROID-APK-16A34A?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-IPA-7C3AED?style=flat-square&logo=apple&logoColor=white)
+![Distribution](https://img.shields.io/badge/DISTRIBUTION-GitHub%20Releases-252B36?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## ⬇️ حمّل آخر نسخة
+## DOWNLOAD CENTER
+### اختر نظام جهازك واضغط على الزر الكبير للتحميل
 
-<table>
-<tr>
-<td align="center" width="50%">
+<a href="https://github.com/wu3x/rouh-iptv-releases/releases/download/android-latest/ROUH-IPTV-Android.apk">
+<img src="https://placehold.co/900x180/16803D/FFFFFF/png?text=DOWNLOAD+ANDROID+APK" alt="تحميل ROUH IPTV للأندرويد - Download Android APK" width="640">
+</a>
 
-### 🤖 أندرويد
+**ANDROID · APK موقّع وجاهز للتثبيت**
 
-<a href="https://github.com/wu3x/rouh-iptv-releases/releases/download/android-latest/ROUH-IPTV-Android.apk"><img alt="DOWNLOAD ANDROID APK" src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-ANDROID%20APK-111111?style=for-the-badge&logo=android&logoColor=white&labelColor=333333" height="52"></a>
+<a href="https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest"><img src="https://img.shields.io/badge/VIEW-ANDROID%20RELEASE-30363D?style=for-the-badge&logo=github&logoColor=white" alt="تفاصيل إصدار أندرويد"></a>
 
-**APK موقّع وجاهز للتثبيت**
+<br><br>
 
-[تفاصيل آخر إصدار أندرويد](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest)
+<a href="https://github.com/wu3x/rouh-iptv-releases/releases/download/ios-latest/ROUH-IPTV-iOS-unsigned.ipa">
+<img src="https://placehold.co/900x180/6D28D9/FFFFFF/png?text=DOWNLOAD+iOS+IPA" alt="تحميل ROUH IPTV للآيفون - Download iOS IPA" width="640">
+</a>
 
-</td>
-<td align="center" width="50%">
+**iOS · ملف IPA غير موقّع — يحتاج توقيعًا قبل التثبيت**
 
-### 🍎 آيفون
+<a href="https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest"><img src="https://img.shields.io/badge/VIEW-iOS%20RELEASE-30363D?style=for-the-badge&logo=github&logoColor=white" alt="تفاصيل إصدار آيفون"></a>
 
-<a href="https://github.com/wu3x/rouh-iptv-releases/releases/download/ios-latest/ROUH-IPTV-iOS-unsigned.ipa"><img alt="DOWNLOAD iOS IPA" src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD-iOS%20IPA-111111?style=for-the-badge&logo=apple&logoColor=white&labelColor=333333" height="52"></a>
+<br>
 
-**IPA غير موقّع — يحتاج توقيع قبل التثبيت**
-
-[تفاصيل آخر إصدار آيفون](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest)
-
-</td>
-</tr>
-</table>
-
-**اضغط زر التحميل الخاص بجهازك، وبيبدأ تنزيل أحدث ملف منشور مباشرة.**
-
-> **ملاحظة:** إذا ظهر لك خطأ 404، فهذا يعني أن أول إصدار من تلك المنصة ما اكتمل نشره بعد.
+**الزران أعلاه للتحميل المباشر، وليسا لعرض ملفات المستودع.**
 
 </div>
 
 ---
 
-## ✨ وش يميّز طريقة التحديث؟
+## عن ROUH IPTV
 
-- **رابط ثابت:** ما يتغير رابط التحميل حتى لو نزلنا عشرات التحديثات.
-- **نشر تلقائي:** بعد نجاح بناء التطبيق على الفرع الرئيسي، يُرفع الملف الجديد هنا ويحل محل السابق.
-- **أندرويد:** التطبيق يقدر يفحص توفر نسخة أحدث وينزّل ملف APK من داخله. تثبيت التحديث يتم بموافقتك عبر نظام أندرويد.
-- **آيفون:** التطبيق يفحص توفر تحديث ويعلمك برقم النسخة الجديدة. تثبيت IPA يتطلب توقيعًا صالحًا وطريقة توزيع مناسبة.
-- **الخصوصية:** أكواد التطبيقين محفوظة في مستودعات خاصة؛ الموجود هنا ملفات التوزيع فقط.
+**ROUH IPTV** تطبيق مشاهدة يجمع الوصول إلى المحتوى في تجربة مبسطة على الهاتف. يركز المشروع على واجهة واضحة، تصفح سلس، وتحسينات مستمرة لتجربة الاستخدام على كل منصة.
 
-## 🛠️ كيف تعرف رقم الإصدار؟
+هذا المستودع هو **قناة التوزيع الرسمية** للتطبيق، وليس مستودع الشيفرة المصدرية. تُنشر هنا الملفات القابلة للتحميل ومعلومات الإصدارات فقط.
 
-تظهر نسخة كل منصة في صفحة الإصدار الخاصة بها، مثل `v1.0.25`. لكل منصة **رقم بناء مستقل**؛ مو لازم يتطابق رقم الأندرويد مع الآيفون.
+## نظام الإصدارات والتحديثات
 
-| المنصة | آخر إصدار | رابط التحميل المباشر |
+| | Android | iOS |
 |:--|:--|:--|
-| 🤖 Android | [عرض الإصدار](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) | [ROUH-IPTV-Android.apk](https://github.com/wu3x/rouh-iptv-releases/releases/download/android-latest/ROUH-IPTV-Android.apk) |
-| 🍎 iOS | [عرض الإصدار](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest) | [ROUH-IPTV-iOS-unsigned.ipa](https://github.com/wu3x/rouh-iptv-releases/releases/download/ios-latest/ROUH-IPTV-iOS-unsigned.ipa) |
+| **ملف التوزيع** | `ROUH-IPTV-Android.apk` | `ROUH-IPTV-iOS-unsigned.ipa` |
+| **الإصدار الثابت** | [android-latest](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) | [ios-latest](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest) |
+| **التثبيت** | تثبيت APK على أندرويد | توقيع IPA ثم تثبيته بالطريقة المناسبة |
+| **التحديث** | فحص إصدار أحدث من داخل التطبيق | فحص إصدار أحدث من داخل التطبيق |
 
-## ❓ أسئلة سريعة
+- **روابط تنزيل ثابتة:** عنوان التحميل لا يتغير عند نشر إصدار جديد على نفس الوسم.
+- **إصدارات مستقلة:** لكل نظام رقم بناء وتاريخ نشر خاص به.
+- **نشر منظم:** تُحدَّث ملفات التوزيع عند نجاح عملية البناء والنشر؛ تعطل GitHub Actions قد يؤخر وصول الإصدار الجديد.
+- **التحكم بيد المستخدم:** تثبيت تحديث أندرويد يتطلب موافقة النظام، ونسخة iOS تتطلب توقيعًا صالحًا.
+
+## قبل التثبيت
 
 <details>
-<summary><b>هل أحتاج أرجع للمستودع كل مرة؟</b></summary>
+<summary><b>Android — هل يثبت التحديث فوق التطبيق الحالي؟</b></summary>
 
-لا. الرابط ثابت ويشير دائمًا إلى أحدث ملف **تم نشره بنجاح** لكل منصة.
+نعم، إذا تطابق اسم الحزمة ومفتاح التوقيع مع النسخة المثبتة وكان رقم الإصدار مناسبًا. إذا اختلف التوقيع، قد يرفض أندرويد التحديث فوق النسخة الموجودة.
 
 </details>
 
 <details>
-<summary><b>هل الأندرويد يحدث نفسه بدون تدخل؟</b></summary>
+<summary><b>iOS — لماذا الملف غير موقّع؟</b></summary>
 
-يقدر يفحص وينزّل التحديث من داخل التطبيق، لكن أندرويد يطلب موافقتك على التثبيت. لازم يكون التحديث موقّعًا بنفس مفتاح النسخة المثبتة.
-
-</details>
-
-<details>
-<summary><b>هل ملف الآيفون يثبت بمجرد تحميله؟</b></summary>
-
-لا. ملف iOS هنا **غير موقّع**، ويحتاج توقيعًا وشهادة/ملف provisioning مناسبًا قبل تثبيته على جهاز فعلي.
+ملف `IPA` المنشور هنا غير موقّع. يلزم توقيعه بشهادة وملف إعداد مناسبين قبل تثبيته على جهاز آيفون.
 
 </details>
 
 <details>
-<summary><b>ليش ما أشوف ملف تحميل الآن؟</b></summary>
+<summary><b>ماذا لو لم يبدأ التحميل؟</b></summary>
 
-زر التحميل يبدأ بالعمل بعد أول بناء ناجح ينشر ملف المنصة في GitHub Releases.
+افتح صفحة إصدار المنصة من الرابط أسفل زر التحميل وتحقق من وجود الملف ضمن **Assets**. قد يتأخر نشر إصدار جديد عند تعطل عمليات البناء أو التوزيع.
+
+</details>
+
+<details>
+<summary><b>هل أحتاج تحميل كل تحديث يدويًا؟</b></summary>
+
+يتوفر فحص تحديثات داخل التطبيق. تختلف خطوات تنزيل التحديث وتثبيته بين أندرويد وآيفون، ولا يتم تثبيت ملف جديد دون الخطوات المطلوبة من النظام.
 
 </details>
 
@@ -101,10 +98,12 @@
 
 <div align="center">
 
-### 🔐 ملفات التوزيع العامة فقط
+### ROUH IPTV · OFFICIAL RELEASE CHANNEL
 
-**ROUH IPTV** · صنع بشغف، ويتحدث باستمرار.
+**Built for a cleaner viewing experience.**
 
-[جميع الإصدارات](https://github.com/wu3x/rouh-iptv-releases/releases) · [Android](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) · [iOS](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest)
+[**استعراض جميع الإصدارات**](https://github.com/wu3x/rouh-iptv-releases/releases)
+
+<sub>© ROUH IPTV · Distribution repository</sub>
 
 </div>
