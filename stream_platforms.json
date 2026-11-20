@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-11-20",
   "platforms": [
     {
@@ -62,6 +62,22 @@
       "id": "platform-8",
       "name": "توب سينما",
       "url": "https://web6.topcinema.fan/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "qeseh",
+      "name": "قصة عشق",
+      "url": "https://wwv.qeseh.com",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "qrmzi",
+      "name": "قرمزي",
+      "url": "https://v3.qrmzi.monster",
       "enabled": true,
       "alternates": [],
       "allowedDomains": []
