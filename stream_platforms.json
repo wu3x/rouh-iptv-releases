@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-11-20",
   "platforms": [
     {
@@ -8,7 +8,8 @@
       "url": "https://www.fasel-hd.com",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-2",
@@ -18,7 +19,8 @@
       "alternates": [],
       "allowedDomains": [
         "zx33.tuktuk-sa.online"
-      ]
+      ],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-3",
@@ -26,7 +28,8 @@
       "url": "https://cima-club.media/",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-4",
@@ -34,7 +37,8 @@
       "url": "https://www.movs4u.watc",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-5",
@@ -42,7 +46,8 @@
       "url": "https://akwams.org/",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-6",
@@ -50,7 +55,8 @@
       "url": "https://www.cinemana.site/",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-7",
@@ -58,7 +64,8 @@
       "url": "https://cineby.tech/",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "platform-8",
@@ -66,7 +73,8 @@
       "url": "https://web6.topcinema.fan/",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "qeseh",
@@ -76,7 +84,8 @@
       "alternates": [],
       "allowedDomains": [
         "3iskk.xyz"
-      ]
+      ],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "qrmzi",
@@ -86,7 +95,8 @@
       "alternates": [],
       "allowedDomains": [
         "krmzi-tv.com"
-      ]
+      ],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "mycima",
@@ -96,7 +106,8 @@
       "alternates": [],
       "allowedDomains": [
         "mycima.recipes"
-      ]
+      ],
+      "category": "أفلام ومسلسلات"
     },
     {
       "id": "egybest",
@@ -106,7 +117,68 @@
       "alternates": [],
       "allowedDomains": [
         "egybest.here"
-      ]
+      ],
+      "category": "أفلام ومسلسلات"
+    },
+    {
+      "id": "yalla-shoot",
+      "name": "يلا شوت",
+      "url": "https://yalla4ball.com",
+      "category": "مشاهدة المباريات",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "yalla4ball.com"
+      ],
+      "adBlock": true
+    },
+    {
+      "id": "aboud-sport",
+      "name": "عبود سبورت",
+      "url": "https://ngochd7.online",
+      "category": "مشاهدة المباريات",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "ngochd7.online"
+      ],
+      "adBlock": true
+    },
+    {
+      "id": "ostora-live",
+      "name": "الأسطورة لايف",
+      "url": "https://live7hd.online",
+      "category": "مشاهدة المباريات",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "live7hd.online"
+      ],
+      "adBlock": true
+    },
+    {
+      "id": "egy-live",
+      "name": "إيجي لايف",
+      "url": "https://www.egylivetv.live",
+      "category": "مشاهدة المباريات",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "www.egylivetv.live"
+      ],
+      "adBlock": true
+    },
+    {
+      "id": "yalla-kora",
+      "name": "يلا كورة",
+      "url": "https://www.yallakora.com/mainpage?nav-logo",
+      "category": "مشاهدة المباريات",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "www.yallakora.com"
+      ],
+      "adBlock": true
     }
   ]
 }
