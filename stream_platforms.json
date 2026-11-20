@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-11-20",
   "platforms": [
     {
@@ -13,11 +13,11 @@
     {
       "id": "platform-2",
       "name": "تيك توك سينما",
-      "url": "https://web2.tuktuk-sa.online",
+      "url": "https://zx33.tuktuk-sa.online",
       "enabled": true,
       "alternates": [],
       "allowedDomains": [
-        "tuktuk-sa.online"
+        "zx33.tuktuk-sa.online"
       ]
     },
     {
@@ -71,18 +71,42 @@
     {
       "id": "qeseh",
       "name": "قصة عشق",
-      "url": "https://wwv.qeseh.com",
+      "url": "https://3iskk.xyz",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [
+        "3iskk.xyz"
+      ]
     },
     {
       "id": "qrmzi",
       "name": "قرمزي",
-      "url": "https://v3.qrmzi.monster",
+      "url": "https://krmzi-tv.com",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [
+        "krmzi-tv.com"
+      ]
+    },
+    {
+      "id": "mycima",
+      "name": "وي سينما",
+      "url": "https://mycima.recipes",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "mycima.recipes"
+      ]
+    },
+    {
+      "id": "egybest",
+      "name": "ايجي بيست",
+      "url": "https://egybest.here",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "egybest.here"
+      ]
     }
   ]
 }
