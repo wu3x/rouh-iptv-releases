@@ -1,20 +1,30 @@
 {
-  "version": 1,
+  "version": 2,
   "updatedAt": "2026-11-20",
   "platforms": [
     {
-      "id": "sample",
-      "title": "منصة تجريبية",
-      "subtitle": "أضف رابط منصتك المصرح بها",
-      "category": "منصات",
-      "url": "https://example.com",
+      "id": "fasel-hd",
+      "title": "فاصل HD",
+      "subtitle": "أفلام ومسلسلات",
+      "category": "المشاهدة",
+      "url": "https://www.fasel-hd.com",
       "alternates": [],
-      "enabled": false,
-      "adBlock": true,
-      "accent": "#6277E9",
-      "allowedDomains": [
-        "example.com"
-      ]
+      "enabled": true,
+      "adBlock": false,
+      "accent": "#6B5DE8",
+      "allowedDomains": []
+    },
+    {
+      "id": "tuktuk",
+      "title": "توك توك",
+      "subtitle": "محتوى ترفيهي",
+      "category": "المشاهدة",
+      "url": "https://web2.tuktuk-sa.online",
+      "alternates": [],
+      "enabled": true,
+      "adBlock": false,
+      "accent": "#15A9A3",
+      "allowedDomains": []
     }
   ]
 }
