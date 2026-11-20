@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-11-20",
+  "version": 7,
+  "updatedAt": "2026-11-21",
   "platforms": [
     {
       "id": "platform-1",
@@ -95,17 +95,6 @@
       "alternates": [],
       "allowedDomains": [
         "krmzi-tv.com"
-      ],
-      "category": "أفلام ومسلسلات"
-    },
-    {
-      "id": "mycima",
-      "name": "وي سينما",
-      "url": "https://mycima.recipes",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "mycima.recipes"
       ],
       "category": "أفلام ومسلسلات"
     },
