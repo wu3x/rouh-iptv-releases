@@ -16,7 +16,9 @@
       "url": "https://web2.tuktuk-sa.online",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": []
+      "allowedDomains": [
+        "tuktuk-sa.online"
+      ]
     },
     {
       "id": "platform-3",
