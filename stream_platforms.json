@@ -1,29 +1,69 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-11-20",
   "platforms": [
     {
-      "id": "fasel-hd",
-      "title": "فاصل HD",
-      "subtitle": "أفلام ومسلسلات",
-      "category": "المشاهدة",
+      "id": "platform-1",
+      "name": "فاصل إعلاني",
       "url": "https://www.fasel-hd.com",
-      "alternates": [],
       "enabled": true,
-      "adBlock": false,
-      "accent": "#6B5DE8",
+      "alternates": [],
       "allowedDomains": []
     },
     {
-      "id": "tuktuk",
-      "title": "توك توك",
-      "subtitle": "محتوى ترفيهي",
-      "category": "المشاهدة",
+      "id": "platform-2",
+      "name": "تيك توك سينما",
       "url": "https://web2.tuktuk-sa.online",
-      "alternates": [],
       "enabled": true,
-      "adBlock": false,
-      "accent": "#15A9A3",
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-3",
+      "name": "سيما كلوب",
+      "url": "https://cima-club.media/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-4",
+      "name": "موفيز فور يو",
+      "url": "https://www.movs4u.watc",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-5",
+      "name": "اكوام",
+      "url": "https://akwams.org/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-6",
+      "name": "سينمانا",
+      "url": "https://www.cinemana.site/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-7",
+      "name": "cineby",
+      "url": "https://cineby.tech/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": []
+    },
+    {
+      "id": "platform-8",
+      "name": "توب سينما",
+      "url": "https://web6.topcinema.fan/",
+      "enabled": true,
+      "alternates": [],
       "allowedDomains": []
     }
   ]
