@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "updatedAt": "2026-11-21",
   "platforms": [
     {
@@ -167,6 +167,18 @@
       "allowedDomains": [
         "www.yallakora.com"
       ],
+      "adBlock": true
+    },
+    {
+      "id": "cinehd",
+      "name": "cinHD",
+      "url": "https://cinehd.vc/home",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "cinehd.vc"
+      ],
+      "category": "أفلام ومسلسلات",
       "adBlock": true
     }
   ]
