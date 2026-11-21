@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "updatedAt": "2026-11-21",
+  "version": 9,
+  "updatedAt": "2026-11-22",
   "platforms": [
     {
       "id": "platform-1",
@@ -110,66 +110,6 @@
       "category": "أفلام ومسلسلات"
     },
     {
-      "id": "yalla-shoot",
-      "name": "يلا شوت",
-      "url": "https://yalla4ball.com",
-      "category": "مشاهدة المباريات",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "yalla4ball.com"
-      ],
-      "adBlock": true
-    },
-    {
-      "id": "aboud-sport",
-      "name": "عبود سبورت",
-      "url": "https://ngochd7.online",
-      "category": "مشاهدة المباريات",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "ngochd7.online"
-      ],
-      "adBlock": true
-    },
-    {
-      "id": "ostora-live",
-      "name": "الأسطورة لايف",
-      "url": "https://live7hd.online",
-      "category": "مشاهدة المباريات",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "live7hd.online"
-      ],
-      "adBlock": true
-    },
-    {
-      "id": "egy-live",
-      "name": "إيجي لايف",
-      "url": "https://www.egylivetv.live",
-      "category": "مشاهدة المباريات",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "www.egylivetv.live"
-      ],
-      "adBlock": true
-    },
-    {
-      "id": "yalla-kora",
-      "name": "يلا كورة",
-      "url": "https://www.yallakora.com/mainpage?nav-logo",
-      "category": "مشاهدة المباريات",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "www.yallakora.com"
-      ],
-      "adBlock": true
-    },
-    {
       "id": "cinehd",
       "name": "cinHD",
       "url": "https://cinehd.vc/home",
@@ -179,6 +119,110 @@
         "cinehd.vc"
       ],
       "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "arabseed",
+      "name": "عرب سيد",
+      "url": "https://asdshow3.arabseed.show",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "arabseed.show"
+      ],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "shahid4u",
+      "name": "شاهد فور يو",
+      "url": "https://shahid4u.bid",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "laroza",
+      "name": "لاروزا",
+      "url": "https://laroza1.cfd",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "asia2tv",
+      "name": "اسيا تو تي في",
+      "url": "https://ww1.asia2tv.pw",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "asia2tv.pw"
+      ],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "arablionz",
+      "name": "عرب ليون",
+      "url": "https://arablionz.live",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "vidbox",
+      "name": "vidbox",
+      "url": "https://vidbox.cx/browse",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "kora-live",
+      "name": "كورة لايف",
+      "url": "https://tvkora.cc",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "مشاهدة المباريات",
+      "adBlock": true
+    },
+    {
+      "id": "ostora-new",
+      "name": "الاسطورة",
+      "url": "https://www.livetvhd24.com",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "مشاهدة المباريات",
+      "adBlock": true
+    },
+    {
+      "id": "coolkora",
+      "name": "كول كورة",
+      "url": "https://coolkora.quest",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "مشاهدة المباريات",
+      "adBlock": true
+    },
+    {
+      "id": "arab-sport",
+      "name": "عرب سبورت",
+      "url": "https://www.arabspoort.com",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "مشاهدة المباريات",
       "adBlock": true
     }
   ]
