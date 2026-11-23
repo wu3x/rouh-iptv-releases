@@ -31,6 +31,7 @@
 ![Android](https://img.shields.io/badge/ANDROID-APK-16803D?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-IPA-7C3AED?style=flat-square&logo=apple&logoColor=white)
 ![Releases](https://img.shields.io/badge/RELEASES-GitHub-30363D?style=flat-square&logo=github&logoColor=white)
+<a href="https://www.instagram.com/wu3x/"><img src="https://img.shields.io/badge/Instagram-wu3x-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram @wu3x"></a>
 
 </div>
 
