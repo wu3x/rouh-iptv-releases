@@ -1,14 +1,17 @@
 {
-  "version": 9,
-  "updatedAt": "2026-11-22",
+  "version": 10,
+  "updatedAt": "2026-11-24",
   "platforms": [
     {
       "id": "platform-1",
       "name": "فاصل إعلاني",
-      "url": "https://www.fasel-hd.com",
+      "url": "https://web11240x.faselhdx.buzz/main",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "web11240x.faselhdx.buzz",
+        "faselhdx.buzz"
+      ],
       "category": "أفلام ومسلسلات"
     },
     {
