@@ -37,42 +37,54 @@
 
 ---
 
-## الإصدارات والتحديثات
+## نظرة عامة | Overview
 
-| | Android | iOS |
-|:--|:--|:--|
-| **ملف التحميل** | `ROUH-IPTV-Android.apk` | `ROUH-IPTV-iOS-unsigned.ipa` |
-| **آخر إصدار** | [Android Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) | [iOS Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest) |
-| **التثبيت** | ملف APK جاهز للتثبيت | يحتاج توقيع IPA قبل التثبيت |
-| **التحديث** | من داخل التطبيق أو عبر رابط التحميل | من داخل التطبيق أو عبر ملف IPA |
+**ROUH IPTV** تطبيق مستقل لتشغيل اشتراكات IPTV وتصفح المنصات عبر واجهة موحدة، مع إصدارات مخصصة لأجهزة Android وiOS.
 
-**روابط تحميل ثابتة:** روابط الأزرار بالأعلى تبقى نفسها عند تحديث الإصدارات المنشورة.
+### المزايا | Features
 
-**تحديثات مستقلة:** لكل منصة إصدارها الخاص، ويجري تحديث ملفات التحميل عند نجاح عملية النشر.
+| الميزة | التفاصيل |
+|:--|:--|
+| IPTV | تشغيل المحتوى من الاشتراكات المتوافقة |
+| المنصات والمواقع | تصنيفات للأفلام والمسلسلات والأنمي والمباريات |
+| تجربة التصفح | متصفح مدمج مع تقليل الإعلانات والمفضلة |
+| الاتصال | خيار فك الحجب باستخدام ByeDPI في نسخة Android |
+| التحديثات | إدارة مستقلة لإصدارات Android وiOS |
 
-**التثبيت بموافقتك:** تحديث أندرويد يطلب موافقة النظام، ونسخة الآيفون تحتاج توقيعًا صالحًا.
+## الإصدارات | Releases
 
-<details>
-<summary><b>هل أقدر أثبّت تحديث أندرويد فوق النسخة الحالية؟</b></summary>
+| النظام | صيغة الملف | حالة التثبيت | الإصدار |
+|:--|:--|:--|:--|
+| Android | APK | موقّع وجاهز للتثبيت | [Android Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) |
+| iOS | IPA | يتطلب توقيعًا صالحًا | [iOS Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest) |
 
-نعم، إذا كان اسم الحزمة ومفتاح التوقيع متطابقين وكان رقم الإصدار مناسبًا.
+روابط التحميل ثابتة، ويتم تحديث ملفات الإصدارات عند اكتمال عملية النشر. يمكن متابعة تفاصيل الإصدارات من [صفحة Releases](https://github.com/wu3x/rouh-iptv-releases/releases).
 
-</details>
+## التثبيت والتحديث | Installation
 
-<details>
-<summary><b>ليش نسخة الآيفون تحتاج توقيع؟</b></summary>
+- **Android:** حمّل ملف APK وافتحه، ثم وافق على التثبيت. يمكن التحديث فوق النسخة الحالية عند تطابق اسم الحزمة والتوقيع.
+- **iOS:** حمّل ملف IPA ووقّعه باستخدام طريقة تثبيت متوافقة مع جهازك.
+- **التحديثات:** يتم نشر تحديثات كل نظام بصورة مستقلة.
 
-ملف IPA غير موقّع، ويحتاج توقيعًا صالحًا قبل تثبيته على جهازك.
+## ملاحظات تقنية | Technical Notes
 
-</details>
+تُدار قائمة المنصات مركزيًا، مما يسمح بتحديث الروابط دون الحاجة إلى إصدار جديد لبعض التغييرات. قد يختلف توفر المواقع تبعًا لحالة الخدمات الخارجية والشبكة.
+
+التطبيق لا يستضيف المحتوى المعروض، ويتحمل المستخدم مسؤولية استخدام المصادر والاشتراكات التي يملك حق الوصول إليها.
+
+### Open Source Acknowledgements
+
+تستخدم نسخة Android مكونات من مشروع [ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) المرخص بموجب GPL-3.0. يخضع توزيع المكونات والكود المصدري المقابل لشروط تراخيصها.
 
 ---
 
 <div align="center">
 
-**ROUH IPTV · Android & iOS**
+**ROUH IPTV**
 
-[جميع الإصدارات](https://github.com/wu3x/rouh-iptv-releases/releases)
+Android · iOS
+
+[Releases](https://github.com/wu3x/rouh-iptv-releases/releases) · [Instagram](https://www.instagram.com/wu3x/)
 
 <sub>© ROUH IPTV</sub>
 
