@@ -1,7 +1,35 @@
 {
-  "version": 13,
+  "version": 14,
   "updatedAt": "2026-11-24",
   "platforms": [
+    {
+      "id": "platform-8",
+      "name": "توب سينما",
+      "url": "https://web6.topcinema.fan/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
+    },
+    {
+      "id": "platform-6",
+      "name": "سينمانا",
+      "url": "https://www.cinemana.site/",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات"
+    },
+    {
+      "id": "shahid4u",
+      "name": "شاهد فور يو",
+      "url": "https://shahid4u.bid",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
     {
       "id": "platform-1",
       "name": "فاصل إعلاني",
@@ -36,11 +64,13 @@
     },
     {
       "id": "platform-4",
-      "name": "موفيز فور يو",
-      "url": "https://www.movs4u.watc",
+      "name": "موفيز لاند",
+      "url": "https://www.moviz.land",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "moviz.land"
+      ],
       "category": "أفلام ومسلسلات"
     },
     {
@@ -53,27 +83,9 @@
       "category": "أفلام ومسلسلات"
     },
     {
-      "id": "platform-6",
-      "name": "سينمانا",
-      "url": "https://www.cinemana.site/",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
-      "category": "أفلام ومسلسلات"
-    },
-    {
       "id": "platform-7",
       "name": "cineby",
       "url": "https://cineby.tech/",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
-      "category": "أفلام ومسلسلات"
-    },
-    {
-      "id": "platform-8",
-      "name": "توب سينما",
-      "url": "https://web6.topcinema.fan/",
       "enabled": true,
       "alternates": [],
       "allowedDomains": [],
@@ -133,16 +145,6 @@
       "allowedDomains": [
         "arabseed.show"
       ],
-      "category": "أفلام ومسلسلات",
-      "adBlock": true
-    },
-    {
-      "id": "shahid4u",
-      "name": "شاهد فور يو",
-      "url": "https://shahid4u.bid",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
       "category": "أفلام ومسلسلات",
       "adBlock": true
     },
