@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "updatedAt": "2026-11-24",
   "platforms": [
     {
@@ -21,16 +21,6 @@
       "category": "أفلام ومسلسلات"
     },
     {
-      "id": "shahid4u",
-      "name": "شاهد فور يو",
-      "url": "https://shahid4u.bid",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
-      "category": "أفلام ومسلسلات",
-      "adBlock": true
-    },
-    {
       "id": "platform-1",
       "name": "فاصل إعلاني",
       "url": "https://www.faselhd.cc",
@@ -41,6 +31,16 @@
         "faselhdx.buzz"
       ],
       "category": "أفلام ومسلسلات"
+    },
+    {
+      "id": "shahid4u",
+      "name": "شاهد فور يو",
+      "url": "https://shahid4u.bid",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [],
+      "category": "أفلام ومسلسلات",
+      "adBlock": true
     },
     {
       "id": "platform-2",
