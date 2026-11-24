@@ -1,11 +1,11 @@
 {
-  "version": 12,
+  "version": 13,
   "updatedAt": "2026-11-24",
   "platforms": [
     {
       "id": "platform-1",
       "name": "فاصل إعلاني",
-      "url": "https://www.faselhd.cc/main",
+      "url": "https://www.faselhd.cc",
       "enabled": true,
       "alternates": [],
       "allowedDomains": [
