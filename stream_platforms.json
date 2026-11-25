@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-11-24",
+  "version": 16,
+  "updatedAt": "2026-11-25",
   "platforms": [
     {
       "id": "platform-8",
@@ -191,42 +191,50 @@
       "adBlock": true
     },
     {
-      "id": "kora-live",
-      "name": "كورة لايف",
-      "url": "https://tvkora.cc",
+      "id": "aflam4you",
+      "name": "aflam4you",
+      "url": "https://channel.aflam4you.net/browse-watch-koora_live-tv-live-tv-1-date.html",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "channel.aflam4you.net"
+      ],
       "category": "مشاهدة المباريات",
       "adBlock": true
     },
     {
-      "id": "ostora-new",
-      "name": "الاسطورة",
-      "url": "https://www.livetvhd24.com",
+      "id": "goal",
+      "name": "قول - نتائج ومواعيد",
+      "url": "https://www.goal.com/ar/مباريات-جارية-حاليًا",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "goal.com"
+      ],
       "category": "مشاهدة المباريات",
       "adBlock": true
     },
     {
-      "id": "coolkora",
-      "name": "كول كورة",
-      "url": "https://coolkora.quest",
+      "id": "livehd7kora",
+      "name": "livehd7kora",
+      "url": "https://livehd7kora.live/?user_timezone=Asia%2FRiyadh",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "livehd7kora.live"
+      ],
       "category": "مشاهدة المباريات",
       "adBlock": true
     },
     {
-      "id": "arab-sport",
-      "name": "عرب سبورت",
-      "url": "https://www.arabspoort.com",
+      "id": "yalla-live",
+      "name": "يلا لايف",
+      "url": "https://yalla-live-tv.com",
       "enabled": true,
       "alternates": [],
-      "allowedDomains": [],
+      "allowedDomains": [
+        "yalla-live-tv.com"
+      ],
       "category": "مشاهدة المباريات",
       "adBlock": true
     }
