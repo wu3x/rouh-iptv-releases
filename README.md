@@ -28,6 +28,20 @@
 
 <br><br>
 
+<a href="https://github.com/wu3x/rouh-iptv-releases/releases/download/windows-latest/ROUH-IPTV-Windows-Setup.exe">
+  <img src="https://img.shields.io/badge/DOWNLOAD-WINDOWS_EXE-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="تحميل نسخة الويندوز" height="44">
+</a>
+
+<br>
+
+<sub>تحميل نسخة الويندوز (تجريبية)</sub>
+
+<br>
+
+<sub>قد يظهر تحذير Windows SmartScreen لأن النسخة تجريبية وغير موقعة لويندوز.<br>إذا تأكدت من مصدر الملف، اضغط «مزيد من المعلومات» ثم «التشغيل على أي حال» وأكمل التثبيت.</sub>
+
+<br><br>
+
 ![Android](https://img.shields.io/badge/ANDROID-APK-16803D?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-IPA-7C3AED?style=flat-square&logo=apple&logoColor=white)
 ![Releases](https://img.shields.io/badge/RELEASES-GitHub-30363D?style=flat-square&logo=github&logoColor=white)
@@ -117,7 +131,7 @@ sequenceDiagram
 
 ## نظرة عامة | Overview
 
-**ROUH IPTV** تطبيق مستقل لتشغيل اشتراكات IPTV وتصفح المنصات عبر واجهة موحدة، مع إصدارات مخصصة لأجهزة Android وiOS.
+**ROUH IPTV** تطبيق مستقل لتشغيل اشتراكات IPTV وتصفح المنصات عبر واجهة موحدة، مع إصدارات لأجهزة Android وiOS وWindows (نسخة الويندوز لتصفح المواقع فقط).
 
 ### المزايا | Features
 
@@ -135,6 +149,8 @@ sequenceDiagram
 |:--|:--|:--|:--|
 | Android | APK | موقّع وجاهز للتثبيت | [Android Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/android-latest) |
 | iOS | IPA | يتطلب توقيعًا صالحًا | [iOS Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/ios-latest) |
+
+| Windows | EXE | نسخة تجريبية | [Windows Release](https://github.com/wu3x/rouh-iptv-releases/releases/tag/windows-latest) |
 
 روابط التحميل ثابتة، ويتم تحديث ملفات الإصدارات عند اكتمال عملية النشر. يمكن متابعة تفاصيل الإصدارات من [صفحة Releases](https://github.com/wu3x/rouh-iptv-releases/releases).
 
@@ -202,7 +218,7 @@ flowchart LR
 
 **ROUH IPTV**
 
-Android · iOS
+Android · iOS · Windows
 
 [Releases](https://github.com/wu3x/rouh-iptv-releases/releases) · [Instagram](https://www.instagram.com/wu3x/)
 
