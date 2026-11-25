@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "updatedAt": "2026-11-25",
   "platforms": [
     {
@@ -157,6 +157,18 @@
       "alternates": [],
       "allowedDomains": [],
       "category": "أفلام ومسلسلات",
+      "adBlock": true
+    },
+    {
+      "id": "yacine-tv",
+      "name": "ياسين تيفي",
+      "url": "https://yacine-tv.net",
+      "enabled": true,
+      "alternates": [],
+      "allowedDomains": [
+        "yacine-tv.net"
+      ],
+      "category": "مشاهدة المباريات",
       "adBlock": true
     },
     {
