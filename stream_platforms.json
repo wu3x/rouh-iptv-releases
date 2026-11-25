@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "updatedAt": "2026-11-25",
   "platforms": [
     {
@@ -83,15 +83,6 @@
       "category": "أفلام ومسلسلات"
     },
     {
-      "id": "platform-7",
-      "name": "cineby",
-      "url": "https://cineby.tech/",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
-      "category": "أفلام ومسلسلات"
-    },
-    {
       "id": "qeseh",
       "name": "قصة عشق",
       "url": "https://3iskk.xyz",
@@ -123,18 +114,6 @@
         "egybest.here"
       ],
       "category": "أفلام ومسلسلات"
-    },
-    {
-      "id": "cinehd",
-      "name": "cinHD",
-      "url": "https://cinehd.vc/home",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [
-        "cinehd.vc"
-      ],
-      "category": "أفلام ومسلسلات",
-      "adBlock": true
     },
     {
       "id": "arabseed",
@@ -174,16 +153,6 @@
       "id": "arablionz",
       "name": "عرب ليون",
       "url": "https://arablionz.live",
-      "enabled": true,
-      "alternates": [],
-      "allowedDomains": [],
-      "category": "أفلام ومسلسلات",
-      "adBlock": true
-    },
-    {
-      "id": "vidbox",
-      "name": "vidbox",
-      "url": "https://vidbox.cx/browse",
       "enabled": true,
       "alternates": [],
       "allowedDomains": [],
